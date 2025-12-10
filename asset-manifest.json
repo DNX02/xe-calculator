@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xe-calculator/static/css/main.77e0d66e.css",
+    "main.js": "/xe-calculator/static/js/main.872ae7cb.js",
+    "static/media/en.png": "/xe-calculator/static/media/en.4a9bb86bd2a548571df8.png",
+    "static/media/logo.png": "/xe-calculator/static/media/logo.078fa9fcf07d3b1f4c3f.png",
+    "static/media/warning.png": "/xe-calculator/static/media/warning.4c7f0906293d173128cf.png",
+    "index.html": "/xe-calculator/index.html",
+    "main.77e0d66e.css.map": "/xe-calculator/static/css/main.77e0d66e.css.map",
+    "main.872ae7cb.js.map": "/xe-calculator/static/js/main.872ae7cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e0d66e.css",
+    "static/js/main.872ae7cb.js"
+  ]
+}
